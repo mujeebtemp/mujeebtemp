@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mujeebtemp/mujeebtemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mujeeb Ur Rehman**, a **Frontend Developer** specializing in **React**, **Next.js**, and **TypeScript**.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on:
+- Building web apps with **React** and **Next.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning:
+- Advanced state management with **React Query** and **Redux**.
+- **GraphQL** and **performance optimization**.
+
+### 👯 Looking to collaborate on:
+- Open-source **React** projects and frontend technologies.
+
+
+Feel free to explore my repositories!
